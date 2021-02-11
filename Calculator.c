@@ -1,3 +1,6 @@
+/* Author: Md. Anuvob Pradan
+Date: 16-08-2016
+*/
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
